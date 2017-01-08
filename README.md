@@ -1,6 +1,6 @@
 # Artificial-Intelligience
 
-This application is a simulation of two-player board game. 
+This application is a simulation of two-player board game. 		
 The applicataion requires as input the current board values, state and which of two player's turn.
 Then based on user choice , the application uses either of the two AI search algorithms:
 1.> Minimax 
