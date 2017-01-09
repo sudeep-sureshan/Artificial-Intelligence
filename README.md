@@ -1,4 +1,4 @@
-# Artificial-Intelligience
+# Artificial-Intelligence
 
 This application is a simulation of two-player board game. 		
 The application requires as input the current board state and which of two player's turn.	
